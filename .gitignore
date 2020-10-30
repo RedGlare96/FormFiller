@@ -1,0 +1,16 @@
+.idea/
+build/
+dist/
+logs/
+output_files/
+venv/
+__pycache__/
+base-form.pdf
+econunit-form.pdf
+Formfiller.exe
+Formfiller.spec
+neweconunit-form.pdf
+README.TXT
+testdata.xlsx
+textboxmapper.exe
+textboxmapper.spec
